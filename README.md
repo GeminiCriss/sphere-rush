@@ -1,1 +1,1 @@
-#Sphere-Rush: A 2D Space Runner
+# Sphere-Rush: A 2D Space Runner
